@@ -82,7 +82,7 @@ p {
     left: 0;
 }
 
-#header .logo{
+#header .logo {
     width: 100px;
 }
 
@@ -486,7 +486,7 @@ footer .col {
     margin-bottom: 20px;
 }
 
-footer .col img{
+footer .col img {
     width: 100px;
 }
 
@@ -960,8 +960,7 @@ footer .copyright p {
 }
 
 #cart-coupon .coupon h3,
-#cart-coupon .subtotal h3
-{
+#cart-coupon .subtotal h3 {
     padding-bottom: 15px;
 }
 
@@ -975,29 +974,27 @@ footer .copyright p {
 }
 
 #cart-coupon .coupon button,
-#cart-coupon .subtotal button
-{
+#cart-coupon .subtotal button {
     background-color: #088178;
     color: #fff;
     padding: 10px 20px;
 }
 
-#cart-coupon .subtotal{
+#cart-coupon .subtotal {
     width: 50%;
     border: 1px solid #e2e9e1;
     margin-bottom: 30px;
     padding: 30px;
 }
 
-#cart-coupon .subtotal table{
+#cart-coupon .subtotal table {
     width: 100%;
     margin-bottom: 20px;
     border-collapse: collapse;
 }
 
 #cart-coupon .subtotal table td,
-#cart-coupon .subtotal table th
-{
+#cart-coupon .subtotal table th {
     width: 50%;
     padding: 10px;
     border: 1px solid #e2e9e1;
@@ -1172,7 +1169,7 @@ footer .copyright p {
     }
 
     #cart table {
-        table-layout:unset;
+        table-layout: unset;
     }
 }
 
@@ -1343,23 +1340,23 @@ footer .copyright p {
 
     /* cart page */
 
-    #cart{
+    #cart {
         overflow-x: auto;
     }
 
     #cart table {
-        table-layout:unset;
+        table-layout: unset;
     }
-    
+
     #cart-coupon {
         flex-direction: column;
     }
-    
+
     #cart-coupon .coupon {
         width: 100%;
     }
-    
-    #cart-coupon .subtotal{
+
+    #cart-coupon .subtotal {
         width: 100%;
     }
 
